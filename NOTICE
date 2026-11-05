@@ -1,0 +1,4 @@
+StrataMC in Rust packages contain Horizon (https://github.com/horizon-rust/horizon),
+Copyright (c) 2026 Ludovic Marie and the Horizon contributors, licensed under the MIT License (LICENSE-HORIZON).
+Strata's built-in extension is proprietary to Strata.
+StrataMC in Rust is not affiliated with or endorsed by Horizon, Mojang or Microsoft.
